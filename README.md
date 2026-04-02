@@ -142,8 +142,3 @@ Transactions, role, and theme are serialised to `localStorage` on every state ch
 
 All amounts are in Indian Rupees (₹), simulating a Bengaluru-based professional's monthly finances.
 
----
-
-## License
-
-MIT

@@ -57,7 +57,6 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ### Build for Production
 
@@ -66,12 +65,13 @@ npm run build
 # Output in /dist — deploy to Vercel, Netlify, or GitHub Pages
 ```
 
-### Deploy to Vercel (quickest)
-
+### Deploy to Vercel 
 ```bash
 npm i -g vercel
 vercel
 ```
+### Live Demo
+demo: [http://finflow-2pzt.vercel.app/](http://finflow-2pzt.vercel.app/)
 
 ---
 
